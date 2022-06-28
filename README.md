@@ -2,4 +2,4 @@
 
 # Projetos de Desenvolvimento Pessoal em Python
 
-Projetos desenvolvidos durante o aprendizado inicial de Python, no qual foram construídos exercícios de aprendizado e mini projetos de aprendizado.
+Projetos desenvolvidos durante o aprendizado inicial em Python, no qual foram construídas ativides acadêmicas e mini projetos de desenvolvimento pessoal.
